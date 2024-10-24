@@ -1,0 +1,11 @@
+https://www.brainstobytes.com/deep-learning-basics-introduction/
+
+https://www.brainstobytes.com/deep-learning-basics-estimation/
+
+https://www.brainstobytes.com/deep-learning-basics-hot-cold-learning/
+
+https://www.brainstobytes.com/deep-learning-basics-gradient-descent/
+
+https://www.brainstobytes.com/deep-learning-basics-generalized-gradient-descent-i/
+
+https://www.brainstobytes.com/tag/data-science-machine-learning/page/5/
