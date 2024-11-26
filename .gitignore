@@ -1,3 +1,9 @@
 /data
 ML-clase1/titanic_limpio.csv
 deep-learning/data/
+*/content/
+*.zip
+*.pth
+kaggle.json
+*/data/*
+Clustering_with_Clusters.xlsx
